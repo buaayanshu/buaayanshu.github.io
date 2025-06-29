@@ -11,21 +11,11 @@ redirect_from:
 
  My research interests lie in computer graphics, particularly in simulation and animation. Currently, my work focuses on combining traditional graphics techniques with AI to design more efficient simulation algorithms.
  
- 
- 
- 
- 
- 
- 
- 
-
-
-
 
 Education
 ======
-B.S. in Pure and Applied Mathematics, 2025
-<small>Beihang University</small>
+**B.S. in Pure and Applied Mathematics, 2025**  
+*Beihang University*
 
 Experiences
 ======
