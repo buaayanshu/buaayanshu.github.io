@@ -25,7 +25,7 @@ redirect_from:
 Education
 ======
 B.S. in Pure and Applied Mathematics, 2025
-> Beihang University
+<small>Beihang University</small>
 
 Experiences
 ======
